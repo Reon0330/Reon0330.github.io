@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate 
-title:  # to be filled in by you
-description: # to be filled in by you
+title: bbb
+description: aaa
 plugins: 
     - jemoji 
 url: "https://reon0330.github.io/" 
