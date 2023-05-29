@@ -16,5 +16,6 @@ MY HOMEPAGE!
 ## If you want to know more or talk with me:
 - Mail：yuyuxuan0330@gmail.com
 
-<center><img src="../../assets/img/照片" alt="IMG_7995_700x700.jpeg" width="60%"/></center>
+![]
+![alt 属性文本](IMG_7995_700x700.jpeg "照片")
 <center><img src="../../assets/img/照片" alt="IMG_7995_700x700.jpeg" width="60%"/></center>
