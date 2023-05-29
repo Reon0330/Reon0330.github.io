@@ -18,4 +18,4 @@ MY HOMEPAGE!
 
 <img src="IMG_7995_700x700.jpeg" alt="图片alt" title="照片">
 ![图片alt](IMG_7995_700x700.jpeg "照片")
-<center><img src="../../assets/img/IMG_7995_700x700.jpeg" alt="IMG_7995_700x700.jpeg" width="60%"/></center>
+<center><img src="../../assets/img/照片" alt="IMG_7995_700x700.jpeg" width="60%"/></center>
