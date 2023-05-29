@@ -1,6 +1,3 @@
-# Reon0330.github.io
-MY HOMEPAGE!
-
 # YU YUXAUN # 
 
 ## Where you can find me
