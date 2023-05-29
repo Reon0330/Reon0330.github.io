@@ -17,3 +17,6 @@ MY HOMEPAGE!
 - Mail：yuyuxuan0330@gmail.com
 
 ![照片]（IMG_7995_700x700.jpeg “照片”）
+<img src="IMG_7995_700x700.jpeg" alt="图片alt" title="照片">
+
+
