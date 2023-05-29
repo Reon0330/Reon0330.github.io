@@ -1,7 +1,6 @@
 # Reon0330.github.io
 MY HOMEPAGE!
 
-## Welcome to the personal page of
 # YU YUXAUN # 
 
 ## Where you can find me
@@ -16,3 +15,5 @@ MY HOMEPAGE!
 
 ## If you want to know more or talk with me:
 - Mail：yuyuxuan0330@gmail.com
+
+![]
