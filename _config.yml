@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate 
+title:  # to be filled in by you
+description: # to be filled in by you
+plugins: 
+    - jemoji 
+url: "https://reon0330.github.io/" 
+markdown: kramdown
