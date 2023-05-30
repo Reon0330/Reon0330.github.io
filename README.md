@@ -1,4 +1,4 @@
-# 于  雨煊 # is my name in Chinese
+# 于  雨煊 is my name in Chinese
 
 ## Where you can find me
 - [北海道大学　メディア・観光学院](https://www.imc.hokudai.ac.jp)
