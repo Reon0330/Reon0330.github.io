@@ -13,7 +13,7 @@
 - Other hobbies
   musicals
 
-＃# What is my recent work
+## What is my recent work
 >Recently I have been working on the reaserch about the contents tourism in Japan, and I will be very gald if you want to talk with me about the Hibiya area of Tokyo and [Takarazuka](https://kageki.hankyu.co.jp/)!
 
 ## If you want to talk with me
