@@ -2,6 +2,7 @@
 
 ## Where you can find me
 - [北海道大学　メディア・観光学院](https://www.imc.hokudai.ac.jp)
+I am a 1st year master's student in the tourism creation course.
 
 ## Who am I
 - ENTP/ Aries/ Blood type A
