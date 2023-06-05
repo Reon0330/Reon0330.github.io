@@ -11,7 +11,7 @@
 - Totally a tourist
 > I like traveling alone the most and I'm very attracted to humanistic landscapes, such as shrines and temples in Japan.
 - Other hobbies
-> musicals
+> Musicals, Fashion 
 
 ## What is my recent work
 >Recently I have been working on the reaserch about the contents tourism in Japan, and I will be very gald if you want to talk with me about the Hibiya area of Tokyo and [Takarazuka](https://kageki.hankyu.co.jp/)!
